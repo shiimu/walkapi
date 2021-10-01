@@ -17,7 +17,11 @@ class Name(Resource):
         return retrieved, 200
 
     def post(self):
-        return 401
+        parser = reqparse.RequestParser()
+        parser.add_argument('', True)
+
+        args = parser.parse_args()
+        return 200
     
     def put(self):
         return 401

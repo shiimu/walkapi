@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "615434fa108ae4e4bfc92e68"
+  },
+  "Helsinki": {
+    "Ateneum": {
+      "desc": "Ateneum on Suomen taiteen koti ja osa Kansallisgalleriaa. Kokoelmaamme kuuluu yli 20 000 kansallisaarretta, jotka ovat meidän kaikkien yhdessä omistamia taideteoksia. Meiltä löytyy taidetta 1800-luvulta moderniin.",
+      "coords": {
+        "latt": "24.94409411337997",
+        "long": "60.170169434776"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/140312YEp001.jpg/1280px-140312YEp001.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "615437cf108ae4e4bfc92e6a"
+  },
+  "Helsinki": {
+    "Kiasma": {
+      "desc": "Kiasma on Helsingin keskustassa sijaitseva nykytaiteen museo. Kiasma on osa Kansallisgalleriaa. Kiasma esittää, kerää ja tekee tunnetuksi nykytaidetta. Näyttelyiden lisäksi Kiasmassa järjestetään esityksiä ja tapahtumia.",
+      "coords": {
+        "latt": "24.936944",
+        "long": "60.171667,"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kiasma_2.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6154445e108ae4e4bfc92e6b"
+  },
+  "Helsinki": {
+    "Helsingin päärautatieasema": {
+      "desc": "Helsingin päärautatieasema on Helsingin tunnettu maamerkki ja pääkaupunkiseudun julkisen liikenteen keskipiste Kluuvin kaupunginosassa",
+      "coords": {
+        "latt": "24.941389",
+        "long": "60.171944"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Helsinki_Main_Station_%2817248824906%29.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61544542108ae4e4bfc92e6c"
+  },
+  "Helsinki": {
+    "Suomen kansallismuseo": {
+      "desc": "Kansallismuseo esittelee Suomen historiaa kivikaudelta nykypäivään esinekulttuurin avulla. Kansallismuseo on osa opetus- ja kulttuuriministeriön alaista Museovirastoa.",
+      "coords": {
+        "latt": "24.931944",
+        "long": "60.175"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/FinlandNationalMuseum.jpg/1200px-FinlandNationalMuseum.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61544624108ae4e4bfc92e6d"
+  },
+  "Helsinki": {
+    "Esplanadin puisto": {
+      "desc": "Esplanadin puisto on kapea viheralue Helsingin ydinkeskustassa, Etelä- ja Pohjoisesplanadi-nimisten katujen välissä. Puisto esiintyy ensimmäisen kerran asemakaavassa vuonna 1812.",
+      "coords": {
+        "latt": "24.947778",
+        "long": "60.1675"
+      },
+      "image": {
+        "url": "htps://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Esplanadin_puisto_2020.jpg/1200px-Esplanadin_puisto_2020.jpgg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61544732108ae4e4bfc92e6e"
+  },
+  "Helsinki": {
+    "Helsingin taidemuseo HAM": {
+      "desc": "HAM eli Helsingin taidemuseo (Helsinki Art Museum ja Helsingfors konstmuseum) (ennen 15. huhtikuuta 2010 Helsingin kaupungin taidemuseo) toimii Tennispalatsissa kaupungin keskustassa. Lisäksi museon ylläpitämässä Kluuvin galleriassa esitellään ajankohtaista kotimaista nykytaidetta.",
+      "coords": {
+        "latt": "24.929866626871043",
+        "long": "60.170048755601364"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tennispalatsi_Helsinki.jpg/1200px-Tennispalatsi_Helsinki.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "615447b7108ae4e4bfc92e6f"
+  },
+  "Helsinki": {
+    "Amos Rex": {
+      "desc": "Amos Rex on vuonna 2018 avattu taidemuseo. Se sijaitsee Lasipalatsissa Helsingin Mannerheimintiellä. Museon johtaja on Kai Kartio. Museon edeltäjä oli vuosina 1965–2017 toiminut Amos Andersonin taidemuseo.",
+      "coords": {
+        "latt": "24.937222",
+        "long": "60.168333"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amos_Rex_aukio.jpg/1200px-Amos_Rex_aukio.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61544818108ae4e4bfc92e70"
+  },
+  "Helsinki": {
+    "Kaisaniemen puisto": {
+      "desc": "Kaisaniemen puisto (ruots. Kajsaniemiparken) on puisto Helsingin ydinkeskustassa, Kluuvin kaupunginosan pohjoisosassa. Siellä järjestetään monenlaisia tapahtumia, kuten Maailma kylässä -kulttuuripäivät. Helsingin kasvitieteellinen puutarha sijaitsee Kaisaniemen puiston pohjoisosassa. Osa puistoa luovutettiin Helsingin yliopistolle puutarhaa varten jo vuonna 1829, ja puutarhan vanhin viherhuone avattiin vuonna 1889. Puistossa järjestetään useita konsertteja, kuten Helsinki-päivän konsertti.",
+      "coords": {
+        "latt": "24.945833",
+        "long": "60.174722"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kaisaniemen_puisto_%28panoraama%29.jpg/1200px-Kaisaniemen_puisto_%28panoraama%29.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61544899108ae4e4bfc92e71"
+  },
+  "Helsinki": {
+    "Linnanmäki": {
+      "desc": "Linnanmäki (ruots. Borgbacken, puhekielessä Lintsi) on Helsingissä Alppiharjun kaupunginosassa sijaitseva huvipuisto, joka avattiin vuonna 1950. Linnanmäellä on 43 erilaista huvipuistolaitetta.",
+      "coords": {
+        "latt": "24.940398111526736",
+        "long": "60.18819705132992"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Linnanm%C3%A4ki_ilmasta_27.5.2017.jpg/1200px-Linnanm%C3%A4ki_ilmasta_27.5.2017.jpg"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61544932108ae4e4bfc92e72"
+  },
+  "Helsinki": {
+    "Eduskuntatalo": {
+      "desc": "Eduskuntatalo (ruots. Riksdagshuset) on Arkadianmäellä Etu-Töölön kaupunginosassa Helsingin keskustassa sijaitseva rakennus, jossa Suomen eduskunta kokoontuu. Eduskuntatalo on Helsingin pääkadun Mannerheimintien varrella, osoitteessa Mannerheimintie 30.",
+      "coords": {
+        "latt": "24.933056",
+        "long": "60.1725"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Parliament_of_Finland1.jpg"
+      }
+    }
+  }
+}]
